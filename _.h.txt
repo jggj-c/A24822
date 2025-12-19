@@ -32,3 +32,4 @@ The `<b>ptrace</b>` system call in Unix-like operating systems is primarily used
 - **Performance Overheads**: Constantly attaching and detaching or stopping and inspecting processes can introduce overhead and slow down the execution.
 
 In summary, `<b>ptrace</b>` is a powerful tool that facilitates debugging and tracing in Unix-like systems, but it requires careful management of permissions and can impact performance during operation.
+## ProjectManager
